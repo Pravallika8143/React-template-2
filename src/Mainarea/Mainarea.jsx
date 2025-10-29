@@ -14,7 +14,6 @@ function MainArea(){
         <div style={{width:"50%"}}>
             <img style={{width:"450px",marginLeft:"10%"}}src="https://landy-web.netlify.app/img/svg/developer.svg"/>
         </div>
-        
     </div>
     )
 }
